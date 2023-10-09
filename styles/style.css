@@ -95,3 +95,24 @@ ul > li {
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
+
+.second-section {
+    background-color: lightgrey;
+    display: flex;
+    height: auto;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.second-section-container {
+    align-self: center;
+    margin: 0 auto;
+    width: 1000px;
+    height: 600px;
+    background-color: #228b22;
+}
+
+.thirty {
+    background-color: #f08080;
+    width: ;
+}
