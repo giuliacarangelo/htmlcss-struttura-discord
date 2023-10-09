@@ -72,5 +72,19 @@ ul > li {
 }
 
 .sixty-forty {
-    
+    justify-content: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.sixty {
+    height: 500px;
+    width: 650px;
+    background-color: #1e90ff;
+}
+
+.forty {
+    height: 500px;
+    width: 350px;
+    background-color: #ffc0cb;
 }
