@@ -71,7 +71,8 @@ ul > li {
     background-color: #ee82ee;
 }
 
-.sixty-forty {
+.sixty-forty,
+.forty-sixty {
     justify-content: center;
     margin-top: 3rem;
     margin-bottom: 3rem;
@@ -87,4 +88,10 @@ ul > li {
     height: 500px;
     width: 350px;
     background-color: #ffc0cb;
+}
+
+.forty-sixty {
+    background-color: lightgrey;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
